@@ -1,1 +1,5 @@
 grails create-app usedstore
+cd phonelib_rep_v2
+
+grails create-domain-class User
+grails create-controller User
